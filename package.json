@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ahmedwahba/cordova-plugin-drawoverapps.git"
+    "url": "git+https://github.com/budafly/cordova-plugin-drawoverapps.git"
   },
   "keywords": [
     "cordova",
