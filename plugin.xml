@@ -23,8 +23,7 @@
     <platform name="android">
         <framework src="src/android/overApp.gradle" custom="true" type="gradleReference" />
         <hook type="before_build" src="www/hookToImportR.js" />
-        <hook type="before_build" src="www/hookLayout.js" />
-        <hook type="after_plugin_install" src="hooks/after_plugin_install/hook-add-r-import.js" />
+        <hook type="before_build" src="www/hookLayout.js" />        
 
         <config-file target="res/xml/config.xml" parent="/*">
                <feature name="DrawOverApps">
