@@ -42,6 +42,8 @@ import android.net.Uri;
 import org.apache.cordova.overApps.Services.OverAppsService;
 import org.apache.cordova.overApps.Services.ServiceParameters;
 
+import com.adobe.phonegap.appbuda.R;
+
 
 public class DrawOverApps extends CordovaPlugin {
 		private static final String TAG = "DrawOverApps";
