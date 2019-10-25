@@ -34,7 +34,7 @@ import org.apache.cordova.overApps.GeneralUtils.KeyDispatchLayout;
 
 
 import java.util.Date;
-import org.apache.cordova.overApps.DrawOverApps.R;
+import com.adobe.phonegap.appbuda.R;
 /**
  * Created by Mohamed Sayed .
  */
