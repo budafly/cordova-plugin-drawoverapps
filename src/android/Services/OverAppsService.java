@@ -34,7 +34,7 @@ import org.apache.cordova.overApps.GeneralUtils.KeyDispatchLayout;
 
 
 import java.util.Date;
-import android.view.R;
+
 /**
  * Created by Mohamed Sayed .
  */
